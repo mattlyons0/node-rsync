@@ -1,11 +1,11 @@
 {
-  "name": "rsync",
-  "version": "0.6.1",
+  "name": "@mattlyons/rsync",
+  "version": "0.6.2",
   "description": "Rsync cli wrapper",
   "main": "rsync.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattijs/node-rsync"
+    "url": "https://github.com/mattlyons0/node-rsync"
   },
   "keywords": [
     "rsync",
@@ -13,7 +13,7 @@
     "cli",
     "command"
   ],
-  "author": "Mattijs Hoitink <mattijs@monkeyandmachine.com>",
+  "author": "Mattijs Hoitink <mattijs@monkeyandmachine.com>, Matt Lyons <npm@mattlyons.net>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {

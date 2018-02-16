@@ -1,3 +1,6 @@
+## This is a fork of [node-rsync](https://github.com/mattijs/node-rsync) with 1 bugfix
+### This fork will be deleted after the bugfix is merged into the master
+
 # Rsync ![build status](https://travis-ci.org/mattijs/node-rsync.svg?branch=master)
 
 [![NPM](https://nodei.co/npm/rsync.png?downloads=true)](https://nodei.co/npm/rsync/)
